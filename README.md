@@ -17,7 +17,7 @@
   </a>
 </p><img src="https://komarev.com/ghpvc/?username=ahmad-461&style=for-the-badge&color=blue" alt="Profile Views"/></div>
 
-👨‍💻 <b>About Me<\b>
+👨‍💻 About Me
 
 I'm Muhammad Ahmad Khan, a Computer Science student and aspiring AI & Full-Stack Developer focused on turning ideas into practical, production-ready applications.
 
@@ -61,7 +61,7 @@ I enjoy building products that combine modern web technologies, artificial intel
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 </p>---
 
-🚀 <b>Featured Projects<\b>
+🚀 Featured Projects
 
 🧠 InsightLoop — AI Business Intelligence
 
