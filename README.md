@@ -253,17 +253,72 @@ The goal is to create an intelligent voice-based system capable of handling call
 
 ---
 
-# 🌱 Currently Learning
+🧠 AI Engineering Journey
 
-```text
-Generative AI
-      ↓
+<div align="center">Generative AI
+↓
 RAG Systems
-      ↓
+↓
 AI Agents
-      ↓
+↓
 LangChain
-      ↓
+↓
 LangGraph
-      ↓
+↓
 Production AI Applications
+
+</div>---
+
+📈 Contribution Activity
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-461&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph"/></div>---
+
+💡 What I Like Building
+
+<table>
+<tr>
+<td width="50%" align="center">🤖 AI-Powered Applications
+
+Building intelligent applications that solve real-world problems using modern AI technologies.
+
+</td><td width="50%" align="center">🌐 Full-Stack Products
+
+Creating modern, responsive and production-ready web applications with great user experiences.
+
+</td>
+</tr><tr>
+<td width="50%" align="center">⚙️ Automation & AI Workflows
+
+Designing smart workflows and automation systems that reduce repetitive work and improve productivity.
+
+</td><td width="50%" align="center">🎨 Interactive Experiences
+
+Crafting polished interfaces with meaningful interactions, smooth animations and attention to detail.
+
+</td>
+</tr>
+</table>---
+
+📫 Let's Connect
+
+<div align="center">💬 Have an idea, opportunity, or project?
+
+I'm always open to learning, building, and collaborating on meaningful ideas.
+
+<br/><a href="https://ahmad-khan-build-ship-iterate-xi.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-000000?style=for-the-badge" alt="Portfolio"/>
+</a><a href="https://www.linkedin.com/in/ahmad-khan-77441833a">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a><a href="mailto:ahmad.khan8747763@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a><br/><br/>
+
+📧 ahmad.khan8747763@gmail.com
+
+</div>---
+
+<div align="center">⭐ Thanks for stopping by!
+
+Build • Ship • Iterate • 🚀
+
+</div>
