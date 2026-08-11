@@ -15,9 +15,9 @@
   <a href="mailto:ahmad.khan8747763@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge" alt="Email"/>
   </a>
-</p><img src="https://komarev.com/ghpvc/?username=ahmad-461&style=for-the-badge&color=blue" alt="Profile Views"/></div>---
+</p><img src="https://komarev.com/ghpvc/?username=ahmad-461&style=for-the-badge&color=blue" alt="Profile Views"/></div>
 
-👨‍💻 About Me
+👨‍💻 <b>About Me<\b>
 
 I'm Muhammad Ahmad Khan, a Computer Science student and aspiring AI & Full-Stack Developer focused on turning ideas into practical, production-ready applications.
 
@@ -61,7 +61,7 @@ I enjoy building products that combine modern web technologies, artificial intel
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 </p>---
 
-🚀 Featured Projects
+🚀 <b>Featured Projects<\b>
 
 🧠 InsightLoop — AI Business Intelligence
 
