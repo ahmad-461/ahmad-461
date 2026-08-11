@@ -2,22 +2,29 @@
 
 # 👋 Hi, I'm Muhammad Ahmad Khan
 
-### 🚀 AI & Full-Stack Developer | Building AI-Powered Products & Modern Web Applications
+### 🚀 AI & Full-Stack Developer
 
-<p>
-  <a href="https://ahmad-khan-build-ship-iterate-xi.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-000000?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/ahmad-461">
-    <img src="https://img.shields.io/badge/💻_GitHub-ahmad--461-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmad-khan-77441833a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ahmad.khan8747763@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge" alt="Email"/>
-  </a>
-</p>
+**Building AI-powered products, modern web applications & practical digital experiences.**
+
+<br/>
+
+<a href="https://ahmad-khan-build-ship-iterate-xi.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" alt="Portfolio"/>
+</a>
+
+<a href="https://github.com/ahmad-461">
+<img src="https://img.shields.io/badge/💻_GitHub-ahmad--461-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmad-khan-77441833a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:ahmad.khan8747763@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ahmad-461&style=for-the-badge" alt="Profile Views"/>
 
@@ -27,9 +34,9 @@
 
 ## 👨‍💻 About Me
 
-I'm Muhammad Ahmad Khan, a Computer Science student and aspiring AI & Full-Stack Developer focused on turning ideas into practical, production-ready applications.
+I'm **Muhammad Ahmad Khan**, a Computer Science student and aspiring **AI & Full-Stack Developer** focused on turning ideas into practical, production-ready applications.
 
-I enjoy building products that combine modern web technologies, artificial intelligence, automation, and clean user experiences.
+I enjoy building products that combine **modern web technologies, artificial intelligence, automation, and clean user experiences.**
 
 - 🎓 Computer Science Student
 - 🤖 Building AI-powered applications
@@ -39,16 +46,16 @@ I enjoy building products that combine modern web technologies, artificial intel
 - 🎯 Currently looking for Software / AI Internship opportunities
 - 🌱 Always learning, building and improving
 
-«Build. Ship. Iterate.»
+> **Build • Ship • Iterate 🚀**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 🤖 AI & GenAI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=google" height="45" alt="Google"/>
+<img src="https://skillicons.dev/icons?i=google" height="48" alt="Google"/>
 </p>
 
 `Gemini API` • `Prompt Engineering` • `AI Integration`
@@ -58,7 +65,7 @@ I enjoy building products that combine modern web technologies, artificial intel
 ### 📊 Data & Analytics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
 </p>
 
 `Python` • `Pandas` • `Data Analysis` • `Data Visualization` • `DuckDB`
@@ -68,7 +75,7 @@ I enjoy building products that combine modern web technologies, artificial intel
 ### 💻 Full-Stack Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="45" alt="Next.js React TypeScript Tailwind"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="48" alt="Next.js • React • TypeScript • Tailwind"/>
 </p>
 
 `Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `FastAPI/Flask`
@@ -78,7 +85,7 @@ I enjoy building products that combine modern web technologies, artificial intel
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=supabase,postgres" height="45" alt="Supabase PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres" height="48" alt="Supabase • PostgreSQL"/>
 </p>
 
 `Supabase` • `PostgreSQL`
@@ -88,96 +95,148 @@ I enjoy building products that combine modern web technologies, artificial intel
 ### 🔧 Tools & Deployment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel" height="45" alt="Git GitHub Vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel" height="48" alt="Git • GitHub • Vercel"/>
 </p>
 
 `Git` • `GitHub` • `Vercel` • `REST APIs`
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🧠 InsightLoop — AI Business Intelligence
+<table>
+<tr>
+<td width="50%">
 
-An AI-powered business intelligence platform that processes spreadsheets and generates interactive dashboards. Users can ask questions about their data and receive AI-assisted analysis.
+### 🧠 InsightLoop
 
-**Tech:** `Next.js` `TypeScript` `DuckDB-WASM` `Gemini API` `Supabase`
+**AI Business Intelligence**
 
-🔗 Live: https://insightloop-sand.vercel.app/
+AI-powered business intelligence platform that processes spreadsheets, generates interactive dashboards and provides AI-assisted data analysis.
 
----
+**Stack:**  
+`Next.js` `TypeScript` `DuckDB-WASM` `Gemini API` `Supabase`
 
-### 📄 DocSim — Document Similarity Checker
+🔗 **[Live Demo](https://insightloop-sand.vercel.app/)**
 
-An intelligent document comparison platform using a custom TF-IDF + Cosine Similarity engine with Gemini-powered semantic analysis.
+</td>
 
-**Tech:** `Next.js` `Python` `Gemini API` `Supabase` `TF-IDF`
+<td width="50%">
 
-🔗 Live: https://docsim-checker.vercel.app/
+### 📄 DocSim
 
----
+**Document Similarity Checker**
 
-### 📑 Clario — Document Intelligence
+Intelligent document comparison platform using TF-IDF + Cosine Similarity with Gemini-powered semantic analysis.
 
-An AI-powered application that transforms complicated legal and contractual information into clear explanations while identifying potential risks and suspicious patterns.
+**Stack:**  
+`Next.js` `Python` `Gemini API` `Supabase`
 
-**Tech:** `Next.js` `AI/NLP` `TypeScript` `Tailwind CSS`
+🔗 **[Live Demo](https://docsim-checker.vercel.app/)**
 
-🔗 Live: https://clario-one-delta.vercel.app/
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
+
+### 📑 Clario
+
+**Document Intelligence**
+
+AI-powered application that transforms complicated legal and contractual information into clear explanations while identifying potential risks.
+
+**Stack:**  
+`Next.js` `AI/NLP` `TypeScript` `Tailwind CSS`
+
+🔗 **[Live Demo](https://clario-one-delta.vercel.app/)**
+
+</td>
+
+<td width="50%">
 
 ### 🧰 Freelance Ops Toolkit
 
-A productivity platform containing multiple tools designed to help freelancers manage invoices, contracts, expenses and everyday operations.
+**Freelancer Productivity Platform**
 
-**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `Vercel`
+A productivity platform containing tools for invoices, contracts, expenses and everyday freelancer operations.
 
-🔗 Live: https://freelance-ops-toolkit.vercel.app/
+**Stack:**  
+`Next.js` `TypeScript` `Tailwind CSS` `Vercel`
 
----
+🔗 **[Live Demo](https://freelance-ops-toolkit.vercel.app/)**
 
-### 🩺 RxReader — AI Prescription Reader
+</td>
+</tr>
 
-An AI-powered vision application designed to read and explain prescription information in simple language.
+<tr>
+<td width="50%">
 
-**Tech:** `Next.js` `AI Vision` `Gemini` `Tailwind CSS`
+### 🩺 RxReader
 
-🔗 Live: https://medical-120-nu.vercel.app/
+**AI Prescription Reader**
 
----
+AI-powered vision application designed to read and explain prescription information in simple language.
+
+**Stack:**  
+`Next.js` `AI Vision` `Gemini` `Tailwind CSS`
+
+🔗 **[Live Demo](https://medical-120-nu.vercel.app/)**
+
+</td>
+
+<td width="50%">
 
 ### 🎮 Impossible Quiz Generator
 
-An adaptive quiz platform that uses AI to generate questions with dynamic difficulty, AI opponents, gamification and competitive features.
+**AI-Powered Quiz Platform**
 
-**Tech:** `Next.js` `TypeScript` `Python` `Gemini API` `Supabase`
+Adaptive quiz platform with AI-generated questions, dynamic difficulty, AI opponents and gamification.
 
-🔗 Live: https://impossiblequiz-app.vercel.app/
+**Stack:**  
+`Next.js` `TypeScript` `Python` `Gemini API` `Supabase`
 
----
+🔗 **[Live Demo](https://impossiblequiz-app.vercel.app/)**
 
-### ⌨️ NOKY — AI Typing Experience
+</td>
+</tr>
 
-A gamified typing platform featuring adaptive passages, analytics, achievements, speed tracking and competitive leaderboards.
+<tr>
+<td width="50%">
 
-**Tech:** `Next.js` `TypeScript` `Supabase` `Gemini API`
+### ⌨️ NOKY
 
-🔗 Live: https://typing-speed-test-pi-smoky.vercel.app/
+**AI Typing Experience**
 
----
+Gamified typing platform featuring adaptive passages, analytics, achievements, speed tracking and competitive leaderboards.
+
+**Stack:**  
+`Next.js` `TypeScript` `Supabase` `Gemini API`
+
+🔗 **[Live Demo](https://typing-speed-test-pi-smoky.vercel.app/)**
+
+</td>
+
+<td width="50%">
 
 ### 🎮 GTA 6 Hub
 
-A multi-page content platform featuring interactive guides, character profiles, news feeds and dynamic content experiences.
+**Interactive Content Platform**
 
-**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `Vercel`
+Multi-page platform featuring interactive guides, character profiles, news feeds and dynamic content experiences.
 
-🔗 Live: https://gta6-hub-liard.vercel.app/
+**Stack:**  
+`Next.js` `TypeScript` `Tailwind CSS` `Vercel`
+
+🔗 **[Live Demo](https://gta6-hub-liard.vercel.app/)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -185,13 +244,7 @@ A multi-page content platform featuring interactive guides, character profiles, 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-461&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ahmad-461&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
@@ -199,7 +252,7 @@ A multi-page content platform featuring interactive guides, character profiles, 
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -209,9 +262,9 @@ A multi-page content platform featuring interactive guides, character profiles, 
 
 ---
 
-## 🎯 Currently Building
+# 🎯 Currently Building
 
-### 🤖 AI Receptionist
+## 🤖 AI Receptionist
 
 Building an AI-powered receptionist using:
 
@@ -221,17 +274,102 @@ The goal is to create an intelligent voice-based system capable of handling call
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-```text
-Generative AI
-      ↓
-RAG Systems
-      ↓
-AI Agents
-      ↓
-LangChain
-      ↓
-LangGraph
-      ↓
-Production AI Applications
+<div align="center">
+
+### Generative AI
+↓
+### RAG Systems
+↓
+### AI Agents
+↓
+### LangChain
+↓
+### LangGraph
+↓
+### Production AI Applications
+
+</div>
+
+---
+
+# 💡 What I Like Building
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🤖 AI Applications
+
+AI-powered tools that solve practical problems.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌐 Full-Stack Products
+
+Modern, responsive and production-ready applications.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### ⚙️ Automation
+
+Systems that simplify repetitive work and improve productivity.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎨 Interactive Experiences
+
+Beautiful interfaces with meaningful interactions.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+### Have an idea, opportunity or project?
+
+**I'm always interested in learning, building and collaborating.**
+
+<br/>
+
+<a href="https://ahmad-khan-build-ship-iterate-xi.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Portfolio-000000?style=for-the-badge" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmad-khan-77441833a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:ahmad.khan8747763@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+📧 **ahmad.khan8747763@gmail.com**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Build • Ship • Iterate 🚀**
+
+</div>
