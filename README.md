@@ -253,10 +253,7 @@ The goal is to create an intelligent voice-based system capable of handling call
 
 ---
 
-# 🌱 Currently Learning
-
-```text
-Generative AI
+ Generative AI
       ↓
 RAG Systems
       ↓
@@ -268,57 +265,79 @@ LangGraph
       ↓
 Production AI Applications
 
-
 ---
 
-💡 What I Build
+## 💡 What I Build
 
 <table>
 <tr>
-<td width="50%" align="center">🤖 AI Applications
+<td width="50%" align="center">
+
+🤖 **AI Applications**
 
 Practical AI-powered products
 
-</td><td width="50%" align="center">🌐 Full-Stack Products
+</td>
+<td width="50%" align="center">
+
+🌐 **Full-Stack Products**
 
 Modern production-ready applications
 
 </td>
-</tr><tr>
-<td width="50%" align="center">⚙️ Automation
+</tr>
+<tr>
+<td width="50%" align="center">
+
+⚙️ **Automation**
 
 Tools that simplify repetitive work
 
-</td><td width="50%" align="center">🎨 Interactive Experiences
+</td>
+<td width="50%" align="center">
+
+🎨 **Interactive Experiences**
 
 Modern and engaging user interfaces
 
 </td>
 </tr>
 </table>
+
 ---
 
-📫 Let's Connect
+## 📫 Let's Connect
 
-<div align="center">Have an opportunity, project or idea?
+<div align="center">
+
+Have an opportunity, project or idea?
 
 I'm always interested in learning, building and collaborating.
 
-<br/><a href="https://ahmad-khan-build-ship-iterate-xi.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Portfolio-000000?style=for-the-badge" />
-</a><a href="https://www.linkedin.com/in/ahmad-khan-77441833a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="mailto:ahmad.khan8747763@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a><br/><br/>
+<br/>
+
+<a href="https://ahmad-khan-build-ship-iterate-xi.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Portfolio-000000?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/ahmad-khan-77441833a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ahmad.khan8747763@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
 
 📧 ahmad.khan8747763@gmail.com
 
 </div>
+
 ---
 
-<div align="center">⭐ Thanks for visiting my profile!
+<div align="center">
 
-Build • Ship • Iterate 🚀
+⭐ Thanks for visiting my profile!
+
+**Build • Ship • Iterate 🚀**
 
 </div>
