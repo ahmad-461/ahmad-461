@@ -4,29 +4,24 @@
 
 ### 🚀 AI & Full-Stack Developer
 
-**Building AI-powered products, modern web applications & practical digital experiences.**
+Building AI-powered products and high-performance web applications.
 
-<br/>
+<p>
+  <a href="https://ahmad-khan-build-ship-iterate-xi.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-000000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ahmad-461">
+    <img src="https://img.shields.io/badge/💻_GitHub-ahmad--461-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmad-khan-77441833a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmad.khan8747763@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge" />
+  </a>
+</p>
 
-<a href="https://ahmad-khan-build-ship-iterate-xi.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" alt="Portfolio"/>
-</a>
-
-<a href="https://github.com/ahmad-461">
-<img src="https://img.shields.io/badge/💻_GitHub-ahmad--461-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ahmad-khan-77441833a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:ahmad.khan8747763@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ahmad-461&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ahmad-461&style=for-the-badge&color=blue" />
 
 </div>
 
@@ -34,68 +29,68 @@
 
 ## 👨‍💻 About Me
 
-I'm **Muhammad Ahmad Khan**, a Computer Science student and aspiring **AI & Full-Stack Developer** focused on turning ideas into practical, production-ready applications.
+I'm **Muhammad Ahmad Khan**, a Computer Science student and aspiring **AI & Full-Stack Developer** focused on building practical, production-ready applications.
 
-I enjoy building products that combine **modern web technologies, artificial intelligence, automation, and clean user experiences.**
+I enjoy turning ideas into live products by combining **AI, modern web technologies, automation, and clean user experiences**.
 
 - 🎓 Computer Science Student
 - 🤖 Building AI-powered applications
 - 💻 Full-Stack Web Development
-- 🧠 Exploring Generative AI & intelligent systems
-- 🚀 Turning ideas into live products
-- 🎯 Currently looking for Software / AI Internship opportunities
-- 🌱 Always learning, building and improving
+- 🚀 Building and deploying real-world projects
+- 🎯 Open to Software / AI Internship opportunities
+- 🌱 Always learning and improving
 
-> **Build • Ship • Iterate 🚀**
+> **Build. Ship. Iterate.**
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### 🤖 AI & GenAI
+## 🤖 AI & GenAI
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=google" height="48" alt="Google"/>
+<p>
+<img src="https://skillicons.dev/icons?i=google" height="45" />
 </p>
 
 `Gemini API` • `Prompt Engineering` • `AI Integration`
 
 ---
 
-### 📊 Data & Analytics
+## 📊 Data & Analytics
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="45" />
+<img src="https://skillicons.dev/icons?i=pandas" height="45" />
 </p>
 
 `Python` • `Pandas` • `Data Analysis` • `Data Visualization` • `DuckDB`
 
 ---
 
-### 💻 Full-Stack Development
+## 💻 Full-Stack Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="48" alt="Next.js • React • TypeScript • Tailwind"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="45" />
 </p>
 
 `Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `FastAPI/Flask`
 
 ---
 
-### 🗄️ Databases
+## 🗄️ Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=supabase,postgres" height="48" alt="Supabase • PostgreSQL"/>
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,postgres" height="45" />
 </p>
 
 `Supabase` • `PostgreSQL`
 
 ---
 
-### 🔧 Tools & Deployment
+## 🔧 Tools & Deployment
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vercel" height="48" alt="Git • GitHub • Vercel"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel" height="45" />
 </p>
 
 `Git` • `GitHub` • `Vercel` • `REST APIs`
@@ -104,149 +99,131 @@ I enjoy building products that combine **modern web technologies, artificial int
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 📊 InsightLoop
 
-### 🧠 InsightLoop
+**AI Business Intelligence Platform**
 
-**AI Business Intelligence**
+A full-stack business intelligence platform that processes uploaded spreadsheets using DuckDB-WASM and provides interactive dashboards with an integrated Gemini AI analyst.
 
-AI-powered business intelligence platform that processes spreadsheets, generates interactive dashboards and provides AI-assisted data analysis.
+**Tech:** `Next.js` `TypeScript` `DuckDB-WASM` `Python` `Gemini API` `Supabase`
 
-**Stack:**  
-`Next.js` `TypeScript` `DuckDB-WASM` `Gemini API` `Supabase`
-
-🔗 **[Live Demo](https://insightloop-sand.vercel.app/)**
-
-</td>
-
-<td width="50%">
-
-### 📄 DocSim
-
-**Document Similarity Checker**
-
-Intelligent document comparison platform using TF-IDF + Cosine Similarity with Gemini-powered semantic analysis.
-
-**Stack:**  
-`Next.js` `Python` `Gemini API` `Supabase`
-
-🔗 **[Live Demo](https://docsim-checker.vercel.app/)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📑 Clario
-
-**Document Intelligence**
-
-AI-powered application that transforms complicated legal and contractual information into clear explanations while identifying potential risks.
-
-**Stack:**  
-`Next.js` `AI/NLP` `TypeScript` `Tailwind CSS`
-
-🔗 **[Live Demo](https://clario-one-delta.vercel.app/)**
-
-</td>
-
-<td width="50%">
-
-### 🧰 Freelance Ops Toolkit
-
-**Freelancer Productivity Platform**
-
-A productivity platform containing tools for invoices, contracts, expenses and everyday freelancer operations.
-
-**Stack:**  
-`Next.js` `TypeScript` `Tailwind CSS` `Vercel`
-
-🔗 **[Live Demo](https://freelance-ops-toolkit.vercel.app/)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🩺 RxReader
-
-**AI Prescription Reader**
-
-AI-powered vision application designed to read and explain prescription information in simple language.
-
-**Stack:**  
-`Next.js` `AI Vision` `Gemini` `Tailwind CSS`
-
-🔗 **[Live Demo](https://medical-120-nu.vercel.app/)**
-
-</td>
-
-<td width="50%">
-
-### 🎮 Impossible Quiz Generator
-
-**AI-Powered Quiz Platform**
-
-Adaptive quiz platform with AI-generated questions, dynamic difficulty, AI opponents and gamification.
-
-**Stack:**  
-`Next.js` `TypeScript` `Python` `Gemini API` `Supabase`
-
-🔗 **[Live Demo](https://impossiblequiz-app.vercel.app/)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⌨️ NOKY
-
-**AI Typing Experience**
-
-Gamified typing platform featuring adaptive passages, analytics, achievements, speed tracking and competitive leaderboards.
-
-**Stack:**  
-`Next.js` `TypeScript` `Supabase` `Gemini API`
-
-🔗 **[Live Demo](https://typing-speed-test-pi-smoky.vercel.app/)**
-
-</td>
-
-<td width="50%">
-
-### 🎮 GTA 6 Hub
-
-**Interactive Content Platform**
-
-Multi-page platform featuring interactive guides, character profiles, news feeds and dynamic content experiences.
-
-**Stack:**  
-`Next.js` `TypeScript` `Tailwind CSS` `Vercel`
-
-🔗 **[Live Demo](https://gta6-hub-liard.vercel.app/)**
-
-</td>
-</tr>
-</table>
+🔗 [Live Demo](https://insightloop-sand.vercel.app/)
 
 ---
 
-# 📊 GitHub Analytics
+## 🧰 Freelance Ops Toolkit
+
+**Freelancer Productivity Suite**
+
+A collection of practical tools designed to simplify everyday freelancer operations including invoicing, contracts and expense tracking.
+
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `Vercel`
+
+🔗 [Live Demo](https://freelance-ops-toolkit.vercel.app/)
+
+---
+
+## 📄 DocSim Checker
+
+**AI Document Similarity Analyzer**
+
+A document similarity platform using a custom TF-IDF engine with Gemini-powered semantic analysis.
+
+**Tech:** `Next.js` `Python/Flask` `Supabase` `Gemini API`
+
+🔗 [Live Demo](https://docsim-checker.vercel.app/)
+
+---
+
+## 🩺 RxReader
+
+**AI Prescription Reader**
+
+An AI-powered vision application designed to read and explain prescription information in simple language.
+
+**Tech:** `Next.js` `AI Vision` `Tailwind CSS` `Vercel`
+
+🔗 [Live Demo](https://medical-120-nu.vercel.app/)
+
+---
+
+## 📑 Clario
+
+**Document Intelligence Application**
+
+An AI-powered document intelligence application that simplifies complicated legal and contractual information and identifies potential risks.
+
+**Tech:** `Next.js` `AI/NLP` `Tailwind CSS` `Vercel`
+
+🔗 [Live Demo](https://clario-one-delta.vercel.app/)
+
+---
+
+## ⌨️ NOKY
+
+**AI Typing & Gamification Platform**
+
+A gamified typing application with adaptive AI-generated passages, analytics, achievements, heatmaps and competitive leaderboards.
+
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `Gemini API`
+
+🔗 [Live Demo](https://typing-speed-test-pi-smoky.vercel.app/)
+
+---
+
+## 🎮 Impossible Quiz Generator
+
+**AI-Powered Adaptive Quiz Platform**
+
+An adaptive quiz platform that generates custom questions using Gemini AI with dynamic difficulty and AI opponent features.
+
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `Python` `Gemini API` `Supabase`
+
+🔗 [Live Demo](https://impossiblequiz-app.vercel.app/)
+
+---
+
+## 🎮 GTA 6 Hub
+
+**Interactive Content Platform**
+
+A multi-page content platform featuring interactive guides, character profiles, news feeds and dynamic content experiences.
+
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `Vercel`
+
+🔗 [Live Demo](https://gta6-hub-liard.vercel.app/)
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmad-461&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
+<a href="https://github.com/ahmad-461">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-461&theme=github_dark" width="95%" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-461&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+<br/>
 
-<br/><br/>
+<a href="https://github.com/ahmad-461">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmad-461&theme=github_dark" width="48%" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=ahmad-461&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+<a href="https://github.com/ahmad-461">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmad-461&theme=github_dark" width="48%" />
+</a>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<a href="https://github.com/ahmad-461">
+<img src="https://streak-stats.vercel.app/?user=ahmad-461&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -256,7 +233,9 @@ Multi-page platform featuring interactive guides, character profiles, news feeds
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-461&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+<a href="https://github.com/ahmad-461">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-461&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</a>
 
 </div>
 
@@ -276,23 +255,39 @@ The goal is to create an intelligent voice-based system capable of handling call
 
 # 🌱 Currently Learning
 
+```text
+Generative AI
+      ↓
+RAG Systems
+      ↓
+AI Agents
+      ↓
+LangChain
+      ↓
+LangGraph
+      ↓
+Production AI Applications
+
+
+
+
+
+
+
+# 📈 Contribution Activity
+
 <div align="center">
 
-### Generative AI
-↓
-### RAG Systems
-↓
-### AI Agents
-↓
-### LangChain
-↓
-### LangGraph
-↓
-### Production AI Applications
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-461&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
 ---
+
+
+
+
+
 
 # 💡 What I Like Building
 
