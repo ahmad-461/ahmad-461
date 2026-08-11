@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ahmad-461&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ahmad-461&style=for-the-badge&color=blue" alt="Profile Views"/>
 
 </div>
 
@@ -47,8 +47,8 @@ I enjoy building products that combine modern web technologies, artificial intel
 
 ### 🤖 AI & GenAI
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=google" height="45" alt="Google"/>
+<p>
+<img src="https://skillicons.dev/icons?i=google" />
 </p>
 
 `Gemini API` • `Prompt Engineering` • `AI Integration`
@@ -57,8 +57,8 @@ I enjoy building products that combine modern web technologies, artificial intel
 
 ### 📊 Data & Analytics
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 `Python` • `Pandas` • `Data Analysis` • `Data Visualization` • `DuckDB`
@@ -67,8 +67,8 @@ I enjoy building products that combine modern web technologies, artificial intel
 
 ### 💻 Full-Stack Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="45" alt="Next.js React TypeScript Tailwind"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
 </p>
 
 `Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `FastAPI/Flask`
@@ -77,8 +77,8 @@ I enjoy building products that combine modern web technologies, artificial intel
 
 ### 🗄️ Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=supabase,postgres" height="45" alt="Supabase PostgreSQL"/>
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,postgres" />
 </p>
 
 `Supabase` • `PostgreSQL`
@@ -87,8 +87,8 @@ I enjoy building products that combine modern web technologies, artificial intel
 
 ### 🔧 Tools & Deployment
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel" height="45" alt="Git GitHub Vercel"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel" />
 </p>
 
 `Git` • `GitHub` • `Vercel` • `REST APIs`
@@ -181,9 +181,9 @@ A multi-page content platform featuring interactive guides, character profiles, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmad-461&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmad-461&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-461&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-461&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -193,7 +193,7 @@ A multi-page content platform featuring interactive guides, character profiles, 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ahmad-461&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ahmad-461&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -203,7 +203,7 @@ A multi-page content platform featuring interactive guides, character profiles, 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-461&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-461&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
