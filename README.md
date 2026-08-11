@@ -252,10 +252,8 @@ Building an AI-powered receptionist using:
 The goal is to create an intelligent voice-based system capable of handling calls, understanding requests and assisting users automatically.
 
 ---
+## 🧠 AI Learning Journey
 
-# 🌱 Currently Learning
-
-```text
 Generative AI
       ↓
 RAG Systems
@@ -268,11 +266,7 @@ LangGraph
       ↓
 Production AI Applications
 
-
-
-
-
-
+---
 
 # 📈 Contribution Activity
 
@@ -283,11 +277,6 @@ Production AI Applications
 </div>
 
 ---
-
-
-
-
-
 
 # 💡 What I Like Building
 
